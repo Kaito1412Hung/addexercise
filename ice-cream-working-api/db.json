@@ -20,6 +20,12 @@
       "price": 28000,
       "flavor": "Vani",
       "image": "https://static-images.vnncdn.net/files/publish/cach-lam-kem-vani-cuc-ngon-tai-nha-5094e1fbf87641faa9368b95c7be9148.jpg?width=0&s=34l6Cc44IKuz0Y20M_0fNQ"
+    },
+    {
+      "id": "afc8",
+      "name": "Kem dâu",
+      "price": "35000",
+      "img": "https://png.pngtree.com/png-clipart/20221022/original/pngtree-colorful-ice-cream-icon-png-image_8711982.png"
     }
   ]
 }
