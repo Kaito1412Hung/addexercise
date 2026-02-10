@@ -1,0 +1,25 @@
+{
+  "icecreams": [
+    {
+      "id": "1",
+      "name": "Kem Dâu Tây",
+      "price": 25000,
+      "flavor": "Dâu",
+      "image": "https://i-giadinh.vnecdn.net/2021/10/18/1567004496dautaykemdalat8-1634-9613-2416-1634550139.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Kem Chocolate",
+      "price": 30000,
+      "flavor": "Cacao",
+      "image": "https://img.freepik.com/free-psd/close-up-delicious-ice-cream_23-2150115057.jpg?semt=ais_hybrid&w=740&q=80"
+    },
+    {
+      "id": "3",
+      "name": "Kem Vani",
+      "price": 28000,
+      "flavor": "Vani",
+      "image": "https://static-images.vnncdn.net/files/publish/cach-lam-kem-vani-cuc-ngon-tai-nha-5094e1fbf87641faa9368b95c7be9148.jpg?width=0&s=34l6Cc44IKuz0Y20M_0fNQ"
+    }
+  ]
+}
